@@ -1,0 +1,3 @@
+apt-get install libpng12-dev \
+python-dev \
+libfreetype6
